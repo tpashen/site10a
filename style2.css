@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(167, 188, 225);
+    color: blueviolet;
+    font-size: 30px;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+p {
+    color: rgb(165, 93, 42);
+    text-align: left;   
+}
+h2{
+    text-align: right;
+}
+header{
+    height: 200px;
+    background-color: blue;
+}
+nav{
+    display:flex;
+   
+    height:100px;
+    background-color: burlywood;
+}
+main{
+    display:flex;
+    height: 500px;
+    background-color: brown;
+}
+footer{
+    height:100px;
+    background-color: chocolate;
+}
+a{
+    border:2px solid black;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+}
